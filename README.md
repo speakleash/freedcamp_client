@@ -20,7 +20,7 @@ Only keys secured by api secret are supported
 
 2. Retrieve a Task
    
-Call the get_task method with the desired liat_group_name to retrieve the next task from that group. This method returns next task from a given list which is not assigned and not started. None returned if task not found.
+Call the get_task method with the desired list_group_name to retrieve the next task from that group. This method returns next task from a given list which is not assigned and not started. None returned if task not found.
 
 3. Task Operations:
 
