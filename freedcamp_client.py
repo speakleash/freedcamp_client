@@ -2,7 +2,7 @@ import requests
 import hmac
 import time
 
-class FreedcampAPI:
+class FreedcampClient:
     BASE_URL = 'https://freedcamp.com/api/v1/'
     LIMIT = 200
 
